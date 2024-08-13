@@ -58,5 +58,5 @@ The goal of this project is to develop a data lakehouse solution using Azure Dat
     
     - The dimension and fact tables created are inline with the following star schema
     
-      ![Star Schema Tables](./images/star-schema-tables.png)
+      ![Star Schema Tables](./images/star_schema.png)
 
